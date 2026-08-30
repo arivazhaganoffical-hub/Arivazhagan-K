@@ -1,137 +1,93 @@
-# 👋 Hi, I'm Arivazhagan K!
+<div align="center">
 
-### ⚙️ Mechanical Engineering Student | CAD Designer | Manufacturing Enthusiast
+# 👋 Hi, I'm Arivazhagan K
 
-🎓 **B.E. Mechanical Engineering Student** at **Paavai College of Engineering**  
-🔧 Interested in **Mechanical Design, CAD, Manufacturing & Automation**  
-🚗 Passionate about **Automotive & Mechanical Engineering**
+### ⚙️ B.E. Mechanical Engineering Student
+### CAD • Mechanical Design • Manufacturing • Automotive • Automation
 
----
+<img src="profile.jpg" width="150" alt="Arivazhagan">
 
-## 🚀 About Me
+<br>
 
-I'm a Mechanical Engineering student passionate about transforming
-engineering concepts into practical designs and solutions.
+<a href="https://www.linkedin.com/in/arivazhagan21/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+</a>
 
-I have a strong interest in:
+<a href="mailto:arivazhaganoffical@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white">
+</a>
 
-- ⚙️ Mechanical Design
-- 🧩 3D CAD Modeling
-- 🏭 Manufacturing Processes
-- 🤖 Robotics & Automation
-- 🚗 Automotive Engineering
-- 📐 Engineering Drawing & Drafting
-- 💻 Python & Engineering Applications
+<a href="https://github.com/arivazhaganoffical-hub">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white">
+</a>
 
----
-
-## 🛠️ Technical Skills
-
-### 🔧 Mechanical Engineering
-- Machine Design
-- Engineering Mechanics
-- Strength of Materials
-- Thermodynamics
-- Fluid Mechanics
-- Manufacturing Processes
-- Material Science
-
-### 💻 CAD & Design
-- SolidWorks
-- AutoCAD
-- 3D Part Modeling
-- Assembly Design
-- Technical Drawing
-- Parametric Modeling
-
-### 🤖 Technology
-- Python
-- HTML
-- Robotics & Automation
-- Basic Computer-Aided Design
-
-### 📊 Quality & Problem Solving
-- Process Observation
-- Root Cause Analysis
-- Problem Solving
-- Attention to Detail
-- Quality Improvement
+</div>
 
 ---
 
-## 💼 Internship
+## 🧑‍💻 About Me
 
-### 🏭 Ashok Leyland Limited
+I'm a **B.E. Mechanical Engineering student at Paavai College of Engineering**
+with an interest in designing, developing and improving real-world engineering
+systems.
 
-**Internship Trainee – Foundry Division**
+🔧 Passionate about **Mechanical Design & CAD**  
+🚗 Interested in **Automotive Engineering**  
+🏭 Exploring **Manufacturing & Production**  
+🤖 Learning **Robotics & Automation**  
+💻 Using **Python** to explore engineering applications  
 
-- Completed a two-week industrial internship.
-- Gained hands-on exposure to mechanical engineering processes.
-- Observed industrial manufacturing and foundry operations.
-- Developed an understanding of real-world production environments.
-- Gained knowledge of industrial safety, production and quality practices.
+> *Turning engineering ideas into practical solutions.*
 
 ---
 
-## 🔨 Projects
+## ⚡ What I Work With
+
+| Area | Skills |
+|---|---|
+| 📐 Design | SolidWorks, AutoCAD, 3D Modeling |
+| ⚙️ Mechanical | Machine Design, Manufacturing, SOM |
+| 🚗 Automotive | Vehicle Dynamics, Automotive Systems |
+| 🤖 Automation | Robotics, Automation Concepts |
+| 💻 Programming | Python, HTML |
+| 🧠 Engineering | Problem Solving, Root Cause Analysis |
+
+---
+
+## 🚀 Featured Project
 
 ### 💡 Motion Activated Lighting System
 
-A smart lighting system designed to automatically control lights
-using motion detection.
+A smart automation project that controls lighting based on detected motion.
 
-**Key Features:**
-- Motion detection
-- Automatic light control
-- Energy conservation
-- Basic automation
+**Focus:**  
+`Automation` • `Motion Detection` • `Energy Saving` • `Smart Systems`
+
+🔗 **Project:** Coming Soon
 
 ---
 
-## 📐 CAD & Design
+## 🏭 Industrial Experience
 
-I'm building my mechanical design portfolio through:
+### Ashok Leyland Limited
+**Internship Trainee — Foundry Division**
 
-- 3D Mechanical Parts
-- Machine Components
-- Assembly Models
-- Engineering Drawings
-- Mechanical Design Concepts
-- SolidWorks Projects
-
----
-
-## 📚 Certifications & Activities
-
-- NDT Methods and Evaluation – Excel Engineering College
-- SOLIDWORKS Essentials Workshop – Green CAD Tech
-- Basics of Robotics and Automation
-- Project Expo – KIT, Coimbatore
-- National Level Technical Symposium – Paper Presentation
-- State Level Technical Symposium – Paper Presentation
+- Hands-on exposure to industrial manufacturing processes
+- Observed foundry and production operations
+- Learned about real-world mechanical engineering practices
+- Developed understanding of industrial work environments
 
 ---
 
-## 🎯 Career Interests
-
-- Mechanical Design Engineer
-- CAD Design Engineer
-- Product Design Engineer
-- Manufacturing Engineer
-- Production Engineer
-- Automotive Engineer
-- Quality Engineer
-- Robotics & Automation
-
----
-
-## 📈 Currently Learning
+## 📐 CAD Journey
 
 ```text
-🔹 Advanced SolidWorks
-🔹 AutoCAD
-🔹 GD&T
-🔹 Product Design
-🔹 Manufacturing Technology
-🔹 Python for Engineering
-🔹 Robotics & Automation
+2D Engineering Drawing
+        ↓
+3D Part Modeling
+        ↓
+Assembly Design
+        ↓
+Technical Drawing
+        ↓
+Manufacturing-Oriented Design
